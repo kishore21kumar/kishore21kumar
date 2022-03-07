@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishore21kumar
-- 👀 I’m interested in new technologies and techniques that are used in the digital world
-- 🌱 I’m currently learning Machine Learning using Python
+- 👀 I am an Quality Engineer at Tata Consultancy Services Limited. 
+- 🌱 I am practising Web Designing, Python, Java and Full stack Development at the free time.  
 
 
 <!---
